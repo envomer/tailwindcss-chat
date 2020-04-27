@@ -8,7 +8,7 @@ There are millions of awesome and good looking web/app designs out there and dri
 So i thought, why not use the free time i have to convert some of those designs into HTML using the well built tailwindcss.
 
 ## Chat design
-![alt text](chat/preview.png "Chat")
+![alt text](preview.png "Chat")
 
 Original name: *Chat - Property dashboard*
 
